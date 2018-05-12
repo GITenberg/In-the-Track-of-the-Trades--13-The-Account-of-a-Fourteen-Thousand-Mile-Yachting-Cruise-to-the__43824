@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36405
     wikipedia: http://en.wikipedia.org/wiki/Lewis_R._Freeman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43824#In-the-Track-of-the-Trades--13-The-Account-of-a-Fourteen-Thousand-Mile-Yachting-Cruise-to-the_
 gutenberg_issued: '2013-09-27'
 gutenberg_type: Text
 identifiers:
